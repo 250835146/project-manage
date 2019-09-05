@@ -7,7 +7,7 @@ eureka:
     service-url:
       defaultZone: http://localhost:8080//eureka/
     healthCheck:
-      enabled: true # ¿ªÆô½¡¿µ¼ì²é
+      enabled: true
 
 mybatis:
   configuration:
@@ -21,6 +21,6 @@ spring:
   datasource:
     username: root
     password: AH@l1512
-    url: jdbc:mysql://101.132.71.228:3306/ceshi?useUnicode=true&characterEncoding=utf-8&useSSL=true&serverTimezone=UTC
+    url: jdbc:mysql://101.132.71.228:3306/project_manage_qicai?useUnicode=true&characterEncoding=utf-8&useSSL=true&serverTimezone=UTC
     type: com.alibaba.druid.pool.DruidDataSource
     driver-class-name: com.mysql.cj.jdbc.Driver
