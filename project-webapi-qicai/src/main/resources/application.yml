@@ -1,0 +1,12 @@
+server:
+  port: 2020
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8080//eureka/
+    healthCheck:
+      enabled: true # ¿ªÆô½¡¿µ¼ì²é
+spring:
+  application:
+    name: project-webapi
