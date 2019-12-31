@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8e353b4e-8a94-4b69-beba-8aee8ea64ad9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project-service-qicai/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project-service-qicai/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project-webapi-qicai/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project-webapi-qicai/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project-webapi-qicai/src/main/java/com/example/projectwebapiqicai/controller/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/project-webapi-qicai/src/main/java/com/example/projectwebapiqicai/controller/TestController.java" afterDir="false" />
-    </list>
+    <list default="true" id="8e353b4e-8a94-4b69-beba-8aee8ea64ad9" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project-register-center/target/" />
@@ -70,8 +64,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.9.RELEASE/spring-web-5.1.9.RELEASE.jar!/org/springframework/web/bind/annotation/GetMapping.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="32" column="41" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
+            <state relative-caret-position="209">
+              <caret line="22" column="41" lean-forward="true" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -174,155 +168,6 @@
             <path>
               <item name="project-manage" type="b2602c69:ProjectViewProjectNode" />
               <item name="project-manage" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project-manage" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project-manage" type="462c0819:PsiDirectoryNode" />
-              <item name="project-service-qicai" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project-manage" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project-manage" type="462c0819:PsiDirectoryNode" />
-              <item name="project-service-qicai" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project-manage" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project-manage" type="462c0819:PsiDirectoryNode" />
-              <item name="project-service-qicai" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project-manage" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project-manage" type="462c0819:PsiDirectoryNode" />
-              <item name="project-service-qicai" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project-manage" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project-manage" type="462c0819:PsiDirectoryNode" />
-              <item name="project-service-qicai" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="projectserviceqicai" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project-manage" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project-manage" type="462c0819:PsiDirectoryNode" />
-              <item name="project-service-qicai" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="projectserviceqicai" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project-manage" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project-manage" type="462c0819:PsiDirectoryNode" />
-              <item name="project-webapi-qicai" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project-manage" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project-manage" type="462c0819:PsiDirectoryNode" />
-              <item name="project-webapi-qicai" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project-manage" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project-manage" type="462c0819:PsiDirectoryNode" />
-              <item name="project-webapi-qicai" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project-manage" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project-manage" type="462c0819:PsiDirectoryNode" />
-              <item name="project-webapi-qicai" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project-manage" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project-manage" type="462c0819:PsiDirectoryNode" />
-              <item name="project-webapi-qicai" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="projectwebapiqicai" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project-manage" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project-manage" type="462c0819:PsiDirectoryNode" />
-              <item name="project-webapi-qicai" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="projectwebapiqicai" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project-manage" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project-manage" type="462c0819:PsiDirectoryNode" />
-              <item name="project-webapi-qicai" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="projectwebapiqicai" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project-manage" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="project-manage" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework:spring-web:5.1.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="project-manage" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework:spring-web:5.1.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-web-5.1.9.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project-manage" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework:spring-web:5.1.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-web-5.1.9.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="springframework" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project-manage" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework:spring-web:5.1.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-web-5.1.9.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="springframework" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project-manage" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework:spring-web:5.1.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-web-5.1.9.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="springframework" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="bind" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project-manage" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework:spring-web:5.1.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-web-5.1.9.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="springframework" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="bind" type="462c0819:PsiDirectoryNode" />
-              <item name="annotation" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -478,7 +323,7 @@
       <workItem from="1567754808290" duration="3531000" />
       <workItem from="1569548786787" duration="8512000" />
       <workItem from="1570864690199" duration="21000" />
-      <workItem from="1571291282938" duration="1907000" />
+      <workItem from="1571291282938" duration="2622000" />
     </task>
     <task id="LOCAL-00001" summary="添加接口返回类和枚举类">
       <created>1567668031774</created>
@@ -501,15 +346,21 @@
       <option name="project" value="LOCAL" />
       <updated>1567675933502</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="测试">
+      <created>1571304346645</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1571304346645</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42792000" />
+    <option name="totallyTimeSpent" value="43507000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23608316" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -535,7 +386,7 @@
       <window_info anchor="bottom" id="Problems" order="11" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
-      <window_info anchor="bottom" id="Version Control" order="14" weight="0.3286119" />
+      <window_info anchor="bottom" id="Version Control" order="14" visible="true" weight="0.11614731" />
       <window_info anchor="bottom" id="JRebel Executor" order="15" />
       <window_info anchor="bottom" id="JRebel Console" order="16" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="17" />
@@ -606,7 +457,8 @@
     <MESSAGE value="xx" />
     <MESSAGE value="更改数据库连接" />
     <MESSAGE value="生成用户MAPPER 删除多余无用类" />
-    <option name="LAST_COMMIT_MESSAGE" value="生成用户MAPPER 删除多余无用类" />
+    <MESSAGE value="测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
@@ -890,8 +742,8 @@
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.9.RELEASE/spring-web-5.1.9.RELEASE.jar!/org/springframework/web/bind/annotation/GetMapping.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="32" column="41" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
+        <state relative-caret-position="209">
+          <caret line="22" column="41" lean-forward="true" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
         </state>
       </provider>
     </entry>
